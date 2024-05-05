@@ -97,8 +97,7 @@ Mean Squared Error:
 ![image](https://github.com/Pavan-Gv/TSA_EXP7/assets/94827772/f268552e-5251-4942-b7ad-21aae65d4710)
 
 PREDICTION:
-
-![Uploading image.png…]()
+![image](https://github.com/Pavan-Gv/TSA_EXP7/assets/94827772/67605332-5ac0-4c33-b3fe-14c3f58e4a93)
 
 ### RESULT:
 Thus we have successfully implemented the auto regression function using python.
